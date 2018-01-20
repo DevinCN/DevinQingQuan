@@ -1,5 +1,5 @@
 # Summary
 
 * [说明](README.md)
-* part 1
+* [第一部分：清泉](part-1.md)
 
